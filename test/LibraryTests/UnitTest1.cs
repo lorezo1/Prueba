@@ -26,7 +26,7 @@ public class Tests
         int z = 15;
          op1 = (x + y + z);
 
-        int result = prueba.suma(); 
+        int result = prueba.(); 
 
     //Assert
 
